@@ -1,0 +1,22 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebAppProvaAPI\WebAppProvaAPI\bin\Debug\netcoreapp2.0\WebAppProvaAPI.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebAppProvaAPI\WebAppProvaAPI\bin\Debug\netcoreapp2.0\WebAppProvaAPI.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebAppProvaAPI\WebAppProvaAPI\bin\Debug\netcoreapp2.0\WebAppProvaAPI.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebAppProvaAPI\WebAppProvaAPI\bin\Debug\netcoreapp2.0\WebAppProvaAPI.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebAppProvaAPI\WebAppProvaAPI\bin\Debug\netcoreapp2.0\WebAppProvaAPI.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.pdb
+C:\Users\eduar\Documents\VisualStudioProjects\GIT\WebAppProvaAPI\WebAppProvaAPI\bin\Debug\netcoreapp2.0\WebAppProvaAPI.deps.json
+C:\Users\eduar\Documents\VisualStudioProjects\GIT\WebAppProvaAPI\WebAppProvaAPI\bin\Debug\netcoreapp2.0\WebAppProvaAPI.runtimeconfig.json
+C:\Users\eduar\Documents\VisualStudioProjects\GIT\WebAppProvaAPI\WebAppProvaAPI\bin\Debug\netcoreapp2.0\WebAppProvaAPI.runtimeconfig.dev.json
+C:\Users\eduar\Documents\VisualStudioProjects\GIT\WebAppProvaAPI\WebAppProvaAPI\bin\Debug\netcoreapp2.0\WebAppProvaAPI.dll
+C:\Users\eduar\Documents\VisualStudioProjects\GIT\WebAppProvaAPI\WebAppProvaAPI\bin\Debug\netcoreapp2.0\WebAppProvaAPI.pdb
+C:\Users\eduar\Documents\VisualStudioProjects\GIT\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.csprojAssemblyReference.cache
+C:\Users\eduar\Documents\VisualStudioProjects\GIT\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\VisualStudioProjects\GIT\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\VisualStudioProjects\GIT\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.AssemblyInfo.cs
+C:\Users\eduar\Documents\VisualStudioProjects\GIT\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.dll
+C:\Users\eduar\Documents\VisualStudioProjects\GIT\WebAppProvaAPI\WebAppProvaAPI\obj\Debug\netcoreapp2.0\WebAppProvaAPI.pdb
